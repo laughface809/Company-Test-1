@@ -4,7 +4,6 @@ import Popup from './components/Popup';
 import List from './components/List';
 
 function App() {
-
   return (
     <>
       <Card />
